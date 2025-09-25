@@ -31,38 +31,8 @@ Spring Boot와 Java를 기반으로 REST API, MSA 구조, 데이터베이스 설
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 📌 Featured Projects
-
-### 💻 NewSphere – 뉴스 수집 및 검색 플랫폼
-👉 [프로젝트 보기](링크)
-
----
-
-### 📝 네이버 블로그 클론
-👉 [프로젝트 보기](링크)
-
----
-
-### 🧭 JSP 기반 주식 투자 가이드 시스템 (슈퍼개미들)
-👉 [프로젝트 보기](링크)
-
----
-
-### 🧩 MemoryMind – 치매 예방 질문/일정 관리 앱
-👉 [프로젝트 보기](링크)
-
----
-
-### 💰 코인 투자 체험 서버
-👉 [프로젝트 보기](링크)
 
 ---
 
 ## 📫 Contact
 - Email: chaehee15@naver.com 
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
