@@ -38,6 +38,7 @@ Spring Boot와 Java를 기반으로 REST API, MSA 구조, 데이터베이스 설
 ### 🍞 삼송빵집 클론코딩
 - Next.js, Tailwind CSS 기반 삼송빵집 제품소개 페이지 클론 👉 [프로젝트 보기](https://github.com/apocalcal/SamsongBread-Clone.git)
 
+---
 
 ## 📫 Contact
 - Email: chaehee15@naver.com 
