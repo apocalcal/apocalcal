@@ -28,13 +28,11 @@ Spring Boot와 Java를 기반으로 REST API, MSA 구조, 데이터베이스 설
 - MSA 기반 아키텍처, JWT 인증, Swagger API 문서화  
 - Config/Gateway/Discovery 서비스 구축 및 CI/CD 적용  👉 [프로젝트 보기](https://github.com/apocalcal/NewSphere.git)
 
----
 
 ### 📝 네이버 블로그 클론
 - Spring Boot + MySQL 기반 블로그 서비스  
 - **메인 페이지, 게시글 검색, 주제 필터 기능** 담당  👉 [프로젝트 보기](https://github.com/apocalcal/NaverBlog-Clone.git)
 
----
 ### 🍞 삼송빵집 클론코딩
 - Next.js, Tailwind CSS 기반 삼송빵집 제품소개 페이지 클론 👉 [프로젝트 보기](https://github.com/apocalcal/SamsongBread-Clone.git)
 
