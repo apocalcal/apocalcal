@@ -36,7 +36,7 @@ Spring Boot와 Java를 기반으로 REST API, MSA 구조, 데이터베이스 설
 ### 💻 NewSphere – 뉴스 수집 및 검색 플랫폼
 - MSA 기반 아키텍처, JWT 인증, Swagger API 문서화  
 - Config/Gateway/Discovery 서비스 구축 및 CI/CD 적용  
-👉 [프로젝트 보기](링크)
+👉 [프로젝트 보기](https://github.com/apocalcal/NewSphere.git)
 
 ---
 
@@ -46,9 +46,8 @@ Spring Boot와 Java를 기반으로 REST API, MSA 구조, 데이터베이스 설
 👉 [프로젝트 보기](링크)
 
 ---
-### 🍴 Goodplace - 회식 장소 추천 플랫폼
-- Spring Boot 기반
-- **회원 관리 CRUD, 로그인, DB 설계** 담당
+### 🍞 삼송빵집 클론코딩
+- Next.js, Tailwind CSS 기반 삼송빵집 제품소개 페이지 클론
 👉 [프로젝트 보기](링크)
 
 
